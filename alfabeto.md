@@ -1,56 +1,70 @@
-A,a
+A,a IPA [a]
 
-B,b
+B,b IPA [b]
 
-C,c
+C,c IPA [t͡s]
 
-Ч,ч (type -> ĉ)
+Ч,ч IPA [t͡ʃ]     (type -> ĉ)
 
-D,d
+D,d IPA [d]
 
-E,e
+E,e IPA [e]
 
-F,f
+F,f IPA [f]
 
-G,g
+G,g IPA [g]
 
-З,з (ĝ)
+З,з IPA [d͡ʒ]	    (ĝ)
 
-H,h
+H,h IPA [h]
 
-X,x (ĥ)
+X,x IPA [x] (ĥ)
 
-I,i
+I,i IPA [i]
 
-J,j
+J,j IPA [j]
 
-Г,г (type -> ĵ)
+Г,г IPA [ʒ]  (type -> ĵ)
 
-K,k
+K,k IPA [k]
 
-L,l
+L,l IPA [l]
 
-M,m
+M,m IPA [m]
 
-N,n
+N,n IPA [n]
 
-O,o
+O,o IPA [o]
 
-P,p
+P,p IPA [p]
 
-R,r
+R,r IPA [r]
 
-S,s
+S,s IPA [s]
 
-W,w (ŝ)
+W,w IPA [ʃ] (ŝ)
 
-T,t
+T,t IPA [t]
 
-U,u
+U,u IPA [u]
 
-Y,y (û)
+Y,y IPA [u̯] (û)
 
-V,v
+V,v IPA [v]
 
-Z,z
+Z,z IPA [z]
 
+
+----------
+
+aj	[ai̯]
+
+ay	[au̯]
+
+ej	[ei̯]
+
+ey	[eu̯]
+
+oj	[oi̯]
+
+uj	phooey	[ui̯]
