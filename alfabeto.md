@@ -1,56 +1,56 @@
-a
+A,a
 
-b
+B,b
 
-c
+C,c
 
-ч
+Ч,ч (type -> ĉ)
 
-d
+D,d
 
-e
+E,e
 
-f
+F,f
 
-g
+G,g
 
-3
+З,з (ĝ)
 
-h
+H,h
 
-x
+X,x (ĥ)
 
-i
+I,i
 
-j
+J,j
 
-ĵ-
+Б,δ (type -> ĵ)
 
-k
+K,k
 
-l
+L,l
 
-m
+M,m
 
-n
+N,n
 
-o
+O,o
 
-p
+P,p
 
-r
+R,r
 
-s
+S,s
 
-w
+W,w (ŝ)
 
-t
+T,t
 
-u
+U,u
 
-y
+Y,y (û)
 
-v
+V,v
 
-z
+Z,z
 
