@@ -55,7 +55,7 @@ Y,y balday Eyropo IPA [u̯]    (û)
 
 V,v vintro lingvo IPA [v]
 
-Z,z zipo roso IPA [z]
+Z,z zipo royo IPA [z]
 
 
 ----------
