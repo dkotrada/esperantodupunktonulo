@@ -17,7 +17,7 @@ F,f floro kafo IPA [f]
 
 G,g glaso pagi IPA [g]
 
-Ð,ð ðardeno seðo IPA [d͡ʒ] (type ALT-GR SHIFT D and ALT-GR d on englisch Briti)	  (ĝ)
+(ĝ)Ð,ð ðardeno seðo IPA [d͡ʒ] (type ALT-GR SHIFT D and ALT-GR d on englisch Briti)
 
 H,h hodiay Bahamoj IPA [h]
 
@@ -27,7 +27,7 @@ I,i ideo vidi IPA [i]
 
 J,j jaro fajro IPA [j]
 
-Ŋ,ŋ ŋeti glaciaŋo IPA [ʒ] type ALT-GR SHIFT G and ALT-GR g   (ĵ)
+(ĵ)Ŋ,ŋ ŋeti glaciaŋo IPA [ʒ] type ALT-GR SHIFT G and ALT-GR g
 
 K,k kuko heliko IPA [k]
 
@@ -45,13 +45,13 @@ R,r rano arbo IPA [r]
 
 S,s serpento kilbaso IPA [s]
 
-W,w wranko kuwi IPA [ʃ]    (ŝ)
+(ŝ)W,w wranko kuwi IPA [ʃ]
 
 T,t tomato patrino IPA [t]
 
 U,u urbo turo IPA [u]
 
-Y,y balday Eyropo IPA [u̯]    (û)
+(û)Y,y balday Eyropo IPA [u̯]
 
 V,v vintro lingvo IPA [v]
 
