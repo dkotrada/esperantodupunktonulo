@@ -67,4 +67,4 @@ ey	[eu̯]
 
 oj	[oi̯]
 
-uj	phooey	[ui̯]
+uj	[ui̯]
