@@ -4,7 +4,7 @@ B,b IPA [b]
 
 C,c IPA [t͡s]
 
-Ч,ч IPA [t͡ʃ]     (type -> ĉ)
+Q,q IPA [t͡ʃ]
 
 D,d IPA [d]
 
@@ -14,17 +14,17 @@ F,f IPA [f]
 
 G,g IPA [g]
 
-З,з IPA [d͡ʒ]	    (ĝ)
+Г,г IPA [d͡ʒ]	  (ĝ)
 
 H,h IPA [h]
 
-X,x IPA [x] (ĥ)
+X,x IPA [x]   (ĥ)
 
 I,i IPA [i]
 
 J,j IPA [j]
 
-Г,г IPA [ʒ]  (type -> ĵ)
+З,з IPA [ʒ]  (type -> ĵ)
 
 K,k IPA [k]
 
@@ -42,13 +42,13 @@ R,r IPA [r]
 
 S,s IPA [s]
 
-W,w IPA [ʃ] (ŝ)
+W,w IPA [ʃ]    (ŝ)
 
 T,t IPA [t]
 
 U,u IPA [u]
 
-Y,y IPA [u̯] (û)
+Y,y IPA [u̯]    (û)
 
 V,v IPA [v]
 
