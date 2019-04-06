@@ -1,5 +1,5 @@
 # Novo esperanto alfabeto! 
-## New esperanto alphabet for britain international or german keyboard layout
+## New esperanto alphabet for typing with british international or german keyboard layout
 
 A,a amiko	kato IPA [a]
 
