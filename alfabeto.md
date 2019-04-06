@@ -24,7 +24,7 @@ I,i IPA [i]
 
 J,j IPA [j]
 
-З,з IPA [ʒ]  (type -> ĵ)
+З,з IPA [ʒ]   (ĵ)
 
 K,k IPA [k]
 
