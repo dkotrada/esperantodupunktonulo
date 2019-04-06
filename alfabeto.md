@@ -21,7 +21,7 @@ G,g glaso pagi IPA [g]
 
 H,h hodiay Bahamoj IPA [h]
 
-X,x himero Baxo IPA [x]   (ĥ)
+X,x ximero Baxo IPA [x]   (ĥ)
 
 I,i ideo vidi IPA [i]
 
