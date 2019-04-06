@@ -14,7 +14,7 @@ F,f floro kafo IPA [f]
 
 G,g glaso pagi IPA [g]
 
-Г,г гardeno seгo IPA [d͡ʒ]	  (ĝ)
+Ð,ð ðardeno seðo IPA [d͡ʒ] type ALT-GR SHIFT D and ALT-GR d	  (ĝ)
 
 H,h hodiay Bahamoj IPA [h]
 
