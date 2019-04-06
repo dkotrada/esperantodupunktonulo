@@ -2,7 +2,8 @@
 
 ## New esperanto alphabet for typing with british international or german keyboard layout
 
-**Without diacritics! https://en.wikipedia.org/wiki/Diacritic**
+- **Without diacritics! https://en.wikipedia.org/wiki/Diacritic**
+- **more readable**
 
 A,a amiko	kato IPA [a]
 
