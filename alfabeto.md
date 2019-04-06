@@ -1,58 +1,58 @@
-A,a IPA [a]
+A,a amiko	kato IPA [a]
 
-B,b IPA [b]
+B,b balo roboto IPA [b]
 
-C,c IPA [t͡s]
+C,c cirklo biciklo IPA [t͡s]
 
-Q,q IPA [t͡ʃ]
+Q,q qerizo aqeti IPA [t͡ʃ]
 
-D,d IPA [d]
+D,d diri odoro IPA [d]
 
-E,e IPA [e]
+E,e elefanto legi IPA [e]
 
-F,f IPA [f]
+F,f floro kafo IPA [f]
 
-G,g IPA [g]
+G,g glaso pagi IPA [g]
 
-Г,г IPA [d͡ʒ]	  (ĝ)
+Г,г гardeno seгo IPA [d͡ʒ]	  (ĝ)
 
-H,h IPA [h]
+H,h hodiay Bahamoj IPA [h]
 
-X,x IPA [x]   (ĥ)
+X,x himero Baxo IPA [x]   (ĥ)
 
-I,i IPA [i]
+I,i ideo vidi IPA [i]
 
-J,j IPA [j]
+J,j jaro fajro IPA [j]
 
-З,з IPA [ʒ]   (ĵ)
+З,з зeti glaciaзo IPA [ʒ]   (ĵ)
 
-K,k IPA [k]
+K,k kuko heliko IPA [k]
 
-L,l IPA [l]
+L,l lampo salato IPA [l]
 
-M,m IPA [m]
+M,m muziko kamelo IPA [m]
 
-N,n IPA [n]
+N,n nazo pano IPA [n]
 
-O,o IPA [o]
+O,o okulo forno IPA [o]
 
-P,p IPA [p]
+P,p pomo hipopotamo IPA [p]
 
-R,r IPA [r]
+R,r rano arbo IPA [r]
 
-S,s IPA [s]
+S,s serpento kilbaso IPA [s]
 
-W,w IPA [ʃ]    (ŝ)
+W,w wranko kuwi IPA [ʃ]    (ŝ)
 
-T,t IPA [t]
+T,t tomato patrino IPA [t]
 
-U,u IPA [u]
+U,u urbo turo IPA [u]
 
-Y,y IPA [u̯]    (û)
+Y,y balday Eyropo IPA [u̯]    (û)
 
-V,v IPA [v]
+V,v vintro lingvo IPA [v]
 
-Z,z IPA [z]
+Z,z zipo roso IPA [z]
 
 
 ----------
