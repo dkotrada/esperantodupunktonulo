@@ -24,7 +24,7 @@ I,i ideo vidi IPA [i]
 
 J,j jaro fajro IPA [j]
 
-З,з зeti glaciaзo IPA [ʒ]   (ĵ)
+Ŋ,ŋ ŋeti glaciaŋo IPA [ʒ] type ALT-GR SHIFT G and ALT-GR g   (ĵ)
 
 K,k kuko heliko IPA [k]
 
