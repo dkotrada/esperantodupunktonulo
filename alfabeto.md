@@ -1,4 +1,5 @@
-# Novo esperanto alfabeto! New esperanto alphabet
+# Novo esperanto alfabeto! 
+## New esperanto alphabet for britain international or german keyboard layout
 
 A,a amiko	kato IPA [a]
 
@@ -16,7 +17,7 @@ F,f floro kafo IPA [f]
 
 G,g glaso pagi IPA [g]
 
-Ð,ð ðardeno seðo IPA [d͡ʒ] type ALT-GR SHIFT D and ALT-GR d	  (ĝ)
+Ð,ð ðardeno seðo IPA [d͡ʒ] (type ALT-GR SHIFT D and ALT-GR d on englisch Briti)	  (ĝ)
 
 H,h hodiay Bahamoj IPA [h]
 
