@@ -1,3 +1,5 @@
+# Novo esperanto alfabeto! New esperanto alphabet
+
 A,a amiko	kato IPA [a]
 
 B,b balo roboto IPA [b]
