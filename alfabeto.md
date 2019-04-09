@@ -4,6 +4,10 @@
 
 - **Without diacritics! https://en.wikipedia.org/wiki/Diacritic**
 - **more readable**
+- Die Betonung liegt immer auf der vorletzten Silbe eines Wortes.
+- Für jeden Buchstaben gibt es nur eine mögliche Aussprache.
+- **Für jeden Buchstaben gibt es einen eindeutigen Symbol. NEW**
+- Für jede Aussprache gibt es somit auch immer nur einen bestimmten Buchstaben.
 
 A,a amiko	kato IPA [a]
 
