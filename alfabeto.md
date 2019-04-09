@@ -79,4 +79,8 @@ oj	[oi̯]
 
 uj	[ui̯]
 
-https://esperanto.lingolia.com/de/wortschatz/aussprache
+----------
+
+1 En la komenco Dio kreis la qielon kaj la teron. 
+2 Kaj la tero estis senforma kaj dezerta, kaj mallumo estis super la abismo; kaj la spirito de Dio wvebis super la akvo. 
+3 Kaj Dio diris: Estu lumo; kaj fariɣis lumo.
