@@ -1,6 +1,6 @@
 # Novo esperanto alfabeto! 
 
-## New esperanto alphabet for typing with british international or german keyboard layout
+## New esperanto alphabet
 
 - **( NEW ) Without diacritics! https://en.wikipedia.org/wiki/Diacritic  more readable**
 - Die Betonung liegt immer auf der vorletzten Silbe eines Wortes.
