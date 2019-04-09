@@ -21,7 +21,7 @@ F,f floro kafo IPA [f]
 
 G,g glaso pagi IPA [g]
 
-(ĝ)Э,э эardeno seэo IPA [d͡ʒ]
+(ĝ)Ɣ,ɣ ɣardeno seɣo IPA [d͡ʒ] latin capital letter gamma (U+0194) /  latin small letter gamma (U+0263)
 
 H,h hodiay Bahamoj IPA [h]
 
@@ -31,7 +31,7 @@ I,i ideo vidi IPA [i]
 
 J,j jaro fajro IPA [j]
 
-(ĵ)Ʒ,ʒ ʒeti glaciaʒo IPA [ʒ]
+(ĵ)Ʒ,ʒ ʒeti glaciaʒo IPA [ʒ] latin capital letter ezh (U+01B7) Ʒ / latin small letter ezh (U+0292) ʒ
 
 K,k kuko heliko IPA [k]
 
