@@ -79,3 +79,5 @@ ey	[eu̯]
 oj	[oi̯]
 
 uj	[ui̯]
+
+https://esperanto.lingolia.com/de/wortschatz/aussprache
