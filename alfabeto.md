@@ -2,8 +2,7 @@
 
 ## New esperanto alphabet for typing with british international or german keyboard layout
 
-- **( NEW ) Without diacritics! https://en.wikipedia.org/wiki/Diacritic**
-- **more readable**
+- **( NEW ) Without diacritics! https://en.wikipedia.org/wiki/Diacritic  more readable**
 - Die Betonung liegt immer auf der vorletzten Silbe eines Wortes.
 - Für jeden Buchstaben gibt es nur eine mögliche Aussprache.
 - **( NEW ) Für jeden Buchstaben gibt es einen eindeutigen Symbol.**
