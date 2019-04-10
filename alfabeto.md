@@ -10,65 +10,65 @@
 
 [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
 
-A,a amiko	kato IPA [a]
+A,a - amiko	kato IPA [a]
 
-B,b balo roboto IPA [b]
+B,b - balo roboto IPA [b]
 
-C,c cirklo biciklo IPA [t͡s]
+C,c - cirklo biciklo IPA [t͡s]
 
-Q,q qerizo aqeti IPA [t͡ʃ] old: Ĉ,ĉ
+Q,q - qerizo aqeti IPA [t͡ʃ] old: Ĉ,ĉ
 
-D,d diri odoro IPA [d]
+D,d - diri odoro IPA [d]
 
-E,e elefanto legi IPA [e]
+E,e - elefanto legi IPA [e]
 
-F,f floro kafo IPA [f]
+F,f - floro kafo IPA [f]
 
-G,g glaso pagi IPA [g]
+G,g - glaso pagi IPA [g]
 
-Ɣ,ɣ ɣardeno seɣo IPA [d͡ʒ] old: Ĝ,ĝ
+Ɣ,ɣ - ɣardeno seɣo IPA [d͡ʒ] old: Ĝ,ĝ
 latin capital letter gamma (U+0194)
 latin small letter gamma (U+0263)
 
-H,h hodiay Bahamoj IPA [h]
+H,h - hodiay Bahamoj IPA [h]
 
-X,x ximero Baxo IPA [x] old: Ĥ,ĥ
+X,x - ximero Baxo IPA [x] old: Ĥ,ĥ
 
-I,i ideo vidi IPA [i]
+I,i - ideo vidi IPA [i]
 
-J,j jaro fajro IPA [j]
+J,j - jaro fajro IPA [j]
 
-(ĵ)Ʒ,ʒ ʒeti glaciaʒo IPA [ʒ] old: Ĵĵ
+Ʒ,ʒ - ʒeti glaciaʒo IPA [ʒ] old: Ĵĵ
 latin capital letter ezh (U+01B7) Ʒ
 latin small letter ezh (U+0292) ʒ
 
-K,k kuko heliko IPA [k]
+K,k - kuko heliko IPA [k]
 
-L,l lampo salato IPA [l]
+L,l - lampo salato IPA [l]
 
-M,m muziko kamelo IPA [m]
+M,m - muziko kamelo IPA [m]
 
-N,n nazo pano IPA [n]
+N,n - nazo pano IPA [n]
 
-O,o okulo forno IPA [o]
+O,o - okulo forno IPA [o]
 
-P,p pomo hipopotamo IPA [p]
+P,p - pomo hipopotamo IPA [p]
 
-R,r rano arbo IPA [r]
+R,r - rano arbo IPA [r]
 
-S,s serpento kilbaso IPA [s]
+S,s - serpento kilbaso IPA [s]
 
-W,w wranko kuwi IPA [ʃ] old: Ŝ,ŝ
+W,w - wranko kuwi IPA [ʃ] old: Ŝ,ŝ
 
-T,t tomato patrino IPA [t]
+T,t - tomato patrino IPA [t]
 
-U,u urbo turo IPA [u]
+U,u - urbo turo IPA [u]
 
-Y,y balday Eyropo IPA [u̯] old: Û,û
+Y,y - balday Eyropo IPA [u̯] old: Û,û
 
-V,v vintro lingvo IPA [v]
+V,v - vintro lingvo IPA [v]
 
-Z,z zipo royo IPA [z]
+Z,z - zipo royo IPA [z]
 
 
 ----------
