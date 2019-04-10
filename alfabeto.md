@@ -8,13 +8,15 @@
 - **( NEW ) Für jeden Buchstaben gibt es einen eindeutigen Symbol.**
 - Für jede Aussprache gibt es somit auch immer nur einen bestimmten Buchstaben.
 
+[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
+
 A,a amiko	kato IPA [a]
 
 B,b balo roboto IPA [b]
 
 C,c cirklo biciklo IPA [t͡s]
 
-Q,q qerizo aqeti IPA [t͡ʃ]
+Q,q qerizo aqeti IPA [t͡ʃ] old: Ĉ,ĉ
 
 D,d diri odoro IPA [d]
 
@@ -24,17 +26,21 @@ F,f floro kafo IPA [f]
 
 G,g glaso pagi IPA [g]
 
-(ĝ)Ɣ,ɣ ɣardeno seɣo IPA [d͡ʒ] latin capital letter gamma (U+0194) /  latin small letter gamma (U+0263)
+Ɣ,ɣ ɣardeno seɣo IPA [d͡ʒ] old: Ĝ,ĝ
+latin capital letter gamma (U+0194)
+latin small letter gamma (U+0263)
 
 H,h hodiay Bahamoj IPA [h]
 
-(ĥ)X,x ximero Baxo IPA [x]
+X,x ximero Baxo IPA [x] old: Ĥ,ĥ
 
 I,i ideo vidi IPA [i]
 
 J,j jaro fajro IPA [j]
 
-(ĵ)Ʒ,ʒ ʒeti glaciaʒo IPA [ʒ] latin capital letter ezh (U+01B7) Ʒ / latin small letter ezh (U+0292) ʒ
+(ĵ)Ʒ,ʒ ʒeti glaciaʒo IPA [ʒ] old: Ĵĵ
+latin capital letter ezh (U+01B7) Ʒ
+latin small letter ezh (U+0292) ʒ
 
 K,k kuko heliko IPA [k]
 
@@ -52,13 +58,13 @@ R,r rano arbo IPA [r]
 
 S,s serpento kilbaso IPA [s]
 
-(ŝ)W,w wranko kuwi IPA [ʃ]
+W,w wranko kuwi IPA [ʃ] old: Ŝ,ŝ
 
 T,t tomato patrino IPA [t]
 
 U,u urbo turo IPA [u]
 
-(û)Y,y balday Eyropo IPA [u̯]
+Y,y balday Eyropo IPA [u̯] old: Û,û
 
 V,v vintro lingvo IPA [v]
 
