@@ -28,8 +28,8 @@ G,g - glaso pagi IPA [g]
 
 Ɣ,ɣ - ɣardeno seɣo IPA [d͡ʒ] old: Ĝ,ĝ
 ```
-latin capital letter gamma (U+0194)
-latin small letter gamma (U+0263)
+latin capital letter gamma (U+0194) Ɣ
+latin small letter gamma (U+0263) ɣ 
 ```
 H,h - hodiay Bahamoj IPA [h]
 
